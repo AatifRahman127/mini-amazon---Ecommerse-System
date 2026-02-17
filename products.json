@@ -1,0 +1,32 @@
+[
+  {
+    "product_id": "P1001",
+    "name": "USB-C Cable",
+    "price": 9.99,
+    "stock": 29
+  },
+  {
+    "product_id": "P1002",
+    "name": "Wireless Mouse",
+    "price": 19.99,
+    "stock": 15
+  },
+  {
+    "product_id": "P1003",
+    "name": "Bluetooth Keyboard",
+    "price": 49.99,
+    "stock": 10
+  },
+  {
+    "product_id": "P1004",
+    "name": "Laptop Stand",
+    "price": 29.99,
+    "stock": 20
+  },
+  {
+    "product_id": "P1005",
+    "name": "Webcam HD",
+    "price": 59.99,
+    "stock": 8
+  }
+]

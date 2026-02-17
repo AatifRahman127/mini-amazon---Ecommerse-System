@@ -1,0 +1,16 @@
+[
+  {
+    "order_id": "O0001",
+    "username": "aatif",
+    "items": [
+      {
+        "product_id": "P1001",
+        "name": "USB-C Cable",
+        "price": 9.99,
+        "quantity": 1
+      }
+    ],
+    "total": 9.99,
+    "timestamp": "2026-02-12 10:24:24"
+  }
+]

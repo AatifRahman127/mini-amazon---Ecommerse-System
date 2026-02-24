@@ -1,6 +1,6 @@
-
-"""Mini-Amazon Console Application"""
-
+"""
+Mini-Amazon Console Application
+"""
 
 from users import UserManager
 from products import ProductCatalog
